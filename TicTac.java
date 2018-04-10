@@ -2,6 +2,9 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
+/*
+@author:Vishal Singh
+*/
 class TicTac implements ActionListener
 {
 	int flag=0;
